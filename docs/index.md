@@ -57,6 +57,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Interpersonal Skills
 - Customer Service
 - Willingness to Learn
+- Stress Management
 
 <!-- ### Footer
 
