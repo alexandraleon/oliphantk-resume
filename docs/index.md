@@ -47,6 +47,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 -  3.302 GPA
 
 ## Skills
+
 - Python
 - SQL (Oracle or MySQL)
 - R Studio
