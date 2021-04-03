@@ -44,7 +44,7 @@ __Tidioute Community Charter School__, Tidioute, PA
 `2017 - 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
--  3.302 GPA
+-  Computer Science B.S, 3.302 GPA
 
 ## Skills
 
