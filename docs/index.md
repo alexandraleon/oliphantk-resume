@@ -34,7 +34,8 @@ __Self Checkout Host__, Walmart Supercenter, Store #3429
 __Cashier__, Walmart Supercenter, Store #3429
 - Learned how to operate registers and maintain drawer accuracy
 - Learned how to maxmize customer experience at my register
-- 
+
+
 ## Education
 
 `2014 - 2017`
