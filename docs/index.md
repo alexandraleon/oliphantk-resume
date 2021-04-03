@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Keyanna Oliphant's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Keyanna Oliphant
+Computer Science Student at Brigham Young University Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -13,74 +13,51 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+## Employment History
+`July 2019 - October 2020`
+__Cashier__, Walmart Supercenter, Store #1878
+- Helped with training of new cashiers, reducing the number of errors new cashiers would make with price matches and manual entry of items.
+- Developed interpersonal skills by communicating with customers
+- Reinforced the skill of helping and calming customers who were upset
 
+`August 2018 - July 2019`
+__Asset Protection Customer Host__, Walmart Supercenter, Store #3429
+- Greatly reduced the number of unpaid items leaving the store, our first day myself and my fellow customer host stopped over $500 of unpaid items from leaving the store.
+- Learned how to handle openly hostile customers 
+
+`July 2018 - August 2018`
+__Self Checkout Host__, Walmart Supercenter, Store #3429
+- Watched for customers that could accidentally or purposefully forget to scan items and make sure they were scanned
+- Taught customers how to use the self checkout machines so they could get checked out faster and have a better experience at the store
+
+`June 2017 - July 2018`
+__Cashier__, Walmart Supercenter, Store #3429
+- Learned how to operate registers and maintain drawer accuracy
+- Learned how to maxmize customer experience at my register
+- 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2014 - 2017`
+__Tidioute Community Charter School__, Tidioute, PA
 
-- Full academic scholarship with 4.0 GPA
+- Salutatorian with weighted GPA of 4.5
 
-`Expected 2029`
+`2017 - 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+-  3.302 GPA
 
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+## Skills
+- Python
+- SQL (Oracle or MySQL)
+- R Studio
+- HTML/CSS
+- Teamwork
+- Communication
+- Active Listening
+- Interpersonal Skills
+- Customer Service
+- Willingness to Learn
 
 <!-- ### Footer
 
