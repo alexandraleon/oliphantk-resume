@@ -1,0 +1,3 @@
+- Change the order of the sections to Education, Experience, Skills
+- In employment history, in the asset protection section, use "my fellow customer host and I" instead of "myself and my fellow customer host"
+- Stick to passive voice and try to quantify how much you did in each job (how many new cashiers did you train for example)
